@@ -1,3 +1,6 @@
+# Archived
+I forked the original project to apply a fix for my own personal use. As I no longer use this, it will now be archived.
+
 # The Tailscale universal Docker mod
 
 This Docker mod lets you slipstream Tailscale into
